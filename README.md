@@ -28,5 +28,4 @@ Adblockが忖度している広告や、実際邪魔だけど消したい広告�
 2021/05/19 Google検索結果+α消えるやつ公開  
 2021/06/12 Amazonのスポンサード広告も消えるように
 2023/03/09 xcloche/searchadd_blockからfork
-2023/03/09 Manifest V3対応
-
+2023/03/09 Manifest V3対応、Gmail広告を消すCSSを追加
