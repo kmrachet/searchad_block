@@ -1,4 +1,8 @@
 /* Gmailのカラムに挿入される広告を消す */
-tr[id*="\:18"].zA.zE {
+tr:has(span.ast) {
     visibility: collapse;
+    display: none;
+}
+div.U9.Vi {
+    display: none;
 }
